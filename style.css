@@ -3,11 +3,10 @@ body {
     color: #d62f2f;
     font-family: 'Press Start 2P', cursive;
     text-align: center;
-    padding: 50px;
 }
 
 .container {
-    max-width: 600px;
+    max-width: 1000px;
     margin: 0 auto;
 }
 
