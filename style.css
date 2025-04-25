@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    color: #00ff99;
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+    padding: 50px;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+
+p {
+    font-size: 12px;
+    line-height: 1.8;
+}
