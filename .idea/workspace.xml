@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ca1651d-1386-4d26-b874-ddfbf5abbda8" name="Changes" comment="changed color, later will try to update it for better CSS and HTML code">
+      <change afterPath="$PROJECT_DIR$/Home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
@@ -19,6 +21,7 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -64,6 +67,7 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;/Users/laurakumasheva/WebstormProjects/parpievOrgWebSite/src/main.ts&quot;,
     &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;/Users/laurakumasheva/WebstormProjects/parpievOrgWebSite/node_modules/prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;ts.external.directory.path&quot;: &quot;/Users/laurakumasheva/WebstormProjects/parpievOrgWebSite/node_modules/typescript/lib&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -86,6 +90,15 @@
       <workItem from="1745559341868" duration="71000" />
       <workItem from="1745559595020" duration="2181000" />
       <workItem from="1745595248591" duration="829000" />
+      <workItem from="1745603941831" duration="187000" />
+      <workItem from="1745614359910" duration="1069000" />
+      <workItem from="1745615461368" duration="466000" />
+      <workItem from="1745617016381" duration="5242000" />
+      <workItem from="1745809708013" duration="3000" />
+      <workItem from="1746135830166" duration="5000" />
+      <workItem from="1746155300000" duration="1000" />
+      <workItem from="1746652766427" duration="209000" />
+      <workItem from="1747677143691" duration="47000" />
     </task>
     <task id="LOCAL-00001" summary="changed color, later will try to update it for better CSS and HTML code">
       <option name="closed" value="true" />
@@ -95,7 +108,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745562266464</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="changed color, later will try to update it for better CSS and HTML code">
+      <option name="closed" value="true" />
+      <created>1745603986618</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1745603986619</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
